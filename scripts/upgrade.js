@@ -2,7 +2,7 @@ const { ethers, upgrades } = require("hardhat");
 
 async function main() {
   const ContractV2 = await ethers.getContractFactory("SimpleStorageV2");
-  const contract = await upgrades.upgradeProxy("0x68Be657C2087513135c941B23960A1145763897d", ContractV2);
+  const contract = await upgrades.upgradeProxy("0xB498FDc4db447A6B44eE297AA1BC6d4c6abb6Ae4", ContractV2);
   console.log("Contract upgraded");
 }
 

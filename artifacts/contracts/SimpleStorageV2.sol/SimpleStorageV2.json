@@ -1,0 +1,70 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SimpleStorageV2",
+  "sourceName": "contracts/SimpleStorageV2.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newNumber",
+          "type": "uint256"
+        }
+      ],
+      "name": "update",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "number",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "plus",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_number",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b50610152806100206000396000f3fe608060405234801561001057600080fd5b506004361061004c5760003560e01c806318b0c3fd1461005157806360fe47b11461005b5780636d4ce63c146100785780638381f58a14610092575b600080fd5b61005961009a565b005b6100596004803603602081101561007157600080fd5b50356100c7565b6100806100f0565b60408051918252519081900360200190f35b6100806100f6565b600080546001019081905560408051918252516000805160206100fd8339815191529181900360200190a1565b60008190556040805182815290516000805160206100fd8339815191529181900360200190a150565b60005490565b6000548156fe82ab890a4924aa641094939d7f06fdb5d410dc84a4205ffbb6c20dfc50e7f984a26469706673582212200073e031d3a5d23d4db96d86e880c325d525c6f84c6d1986aacb9ad2d2c973d964736f6c63430007030033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b506004361061004c5760003560e01c806318b0c3fd1461005157806360fe47b11461005b5780636d4ce63c146100785780638381f58a14610092575b600080fd5b61005961009a565b005b6100596004803603602081101561007157600080fd5b50356100c7565b6100806100f0565b60408051918252519081900360200190f35b6100806100f6565b600080546001019081905560408051918252516000805160206100fd8339815191529181900360200190a1565b60008190556040805182815290516000805160206100fd8339815191529181900360200190a150565b60005490565b6000548156fe82ab890a4924aa641094939d7f06fdb5d410dc84a4205ffbb6c20dfc50e7f984a26469706673582212200073e031d3a5d23d4db96d86e880c325d525c6f84c6d1986aacb9ad2d2c973d964736f6c63430007030033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

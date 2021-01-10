@@ -1,0 +1,24 @@
+{
+  "name": "token-application",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/hardhat-upgrades": "^1.4.3",
+    "@truffle/hdwallet-provider": "^1.2.1",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "eth-gas-reporter": "^0.2.20",
+    "ethereum-waffle": "^3.1.1",
+    "ethers": "^5.0.25",
+    "hardhat": "^2.0.4",
+    "husky": "^4.2.5",
+    "log4js": "^6.3.0"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "0.0.12"
+  }
+}

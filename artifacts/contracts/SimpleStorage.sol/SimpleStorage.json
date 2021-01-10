@@ -1,0 +1,63 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SimpleStorage",
+  "sourceName": "contracts/SimpleStorage.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "newNumber",
+          "type": "uint256"
+        }
+      ],
+      "name": "update",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "number",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_number",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b5060f88061001f6000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c806360fe47b11460415780636d4ce63c14605d5780638381f58a146075575b600080fd5b605b60048036036020811015605557600080fd5b5035607b565b005b606360b6565b60408051918252519081900360200190f35b606360bc565b60008190556040805182815290517f82ab890a4924aa641094939d7f06fdb5d410dc84a4205ffbb6c20dfc50e7f9849181900360200190a150565b60005490565b6000548156fea2646970667358221220735d2eff80885ccdbcfbe69beb6d7ee18a6df87d5bc12042bd4896a5b7a935ba64736f6c63430007030033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b5060043610603c5760003560e01c806360fe47b11460415780636d4ce63c14605d5780638381f58a146075575b600080fd5b605b60048036036020811015605557600080fd5b5035607b565b005b606360b6565b60408051918252519081900360200190f35b606360bc565b60008190556040805182815290517f82ab890a4924aa641094939d7f06fdb5d410dc84a4205ffbb6c20dfc50e7f9849181900360200190a150565b60005490565b6000548156fea2646970667358221220735d2eff80885ccdbcfbe69beb6d7ee18a6df87d5bc12042bd4896a5b7a935ba64736f6c63430007030033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

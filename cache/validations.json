@@ -1,0 +1,1234 @@
+[
+  {
+    "SimpleStorageV2": {
+      "version": {
+        "withMetadata": "c74aa878f55df5f587eeb247d9c69773c027fa42aa5863c8392efec2fa1829df",
+        "withoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781",
+        "linkedWithoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "SimpleStorageV2",
+            "label": "number",
+            "type": "t_uint256",
+            "src": "contracts/SimpleStorageV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "SimpleStorage": {
+      "version": {
+        "withMetadata": "7e6d1bd9a861192228819dbee9a526eb0e41aa0f87a9fc86cfeb01d927903cd4",
+        "withoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781",
+        "linkedWithoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "SimpleStorage",
+            "label": "number",
+            "type": "t_uint256",
+            "src": "contracts/SimpleStorageV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "SimpleStorage": {
+      "version": {
+        "withMetadata": "5603f4ee84bfa6a8eaeeb5f3817fd11a9b4c0e179915d358940c44ed838e229d",
+        "withoutMetadata": "12707422bf647f2593699d3f956fbc50d783bc0ebb4f66259acb7441db4620c8",
+        "linkedWithoutMetadata": "12707422bf647f2593699d3f956fbc50d783bc0ebb4f66259acb7441db4620c8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "SimpleStorage",
+            "label": "number",
+            "type": "t_uint256",
+            "src": "contracts/SimpleStorage.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "SimpleStorage": {
+      "version": {
+        "withMetadata": "7e6d1bd9a861192228819dbee9a526eb0e41aa0f87a9fc86cfeb01d927903cd4",
+        "withoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781",
+        "linkedWithoutMetadata": "522834a9f2a6bfa23a2488d8d22d005802684f9a4cfc33914544c07fa902b781"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "SimpleStorage",
+            "label": "number",
+            "type": "t_uint256",
+            "src": "contracts/SimpleStorageV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "SimpleStorage": {
+      "version": {
+        "withMetadata": "5603f4ee84bfa6a8eaeeb5f3817fd11a9b4c0e179915d358940c44ed838e229d",
+        "withoutMetadata": "12707422bf647f2593699d3f956fbc50d783bc0ebb4f66259acb7441db4620c8",
+        "linkedWithoutMetadata": "12707422bf647f2593699d3f956fbc50d783bc0ebb4f66259acb7441db4620c8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "SimpleStorage",
+            "label": "number",
+            "type": "t_uint256",
+            "src": "contracts/SimpleStorage.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "BoxV2": {
+      "version": {
+        "withMetadata": "a95f70998db288fcbae896b110fa42fd2d0163140e7d91b8e4b0bb9c96b997ca",
+        "withoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4",
+        "linkedWithoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "BoxV2",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/BoxV2.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Box": {
+      "version": {
+        "withMetadata": "9183c8d5316e6f1fd43e155c06510fcefe893c809b315d4eebf87419fba8a005",
+        "withoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0",
+        "linkedWithoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Box",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/Box.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "BoxV2": {
+      "version": {
+        "withMetadata": "a95f70998db288fcbae896b110fa42fd2d0163140e7d91b8e4b0bb9c96b997ca",
+        "withoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4",
+        "linkedWithoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "BoxV2",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/BoxV2.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "BoxV2": {
+      "version": {
+        "withMetadata": "61d17ecadadd24dd35c996408aeb5e213b99c35bf9488e471de72ca05350bf4f",
+        "withoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4",
+        "linkedWithoutMetadata": "939c22d20aee70d7fbfc670fcebfed06f99368f44a7b3adfdec122b71ae7c1c4"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "BoxV2",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/BoxV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "2a9b8aeed0c92fbf22dccce777d0be93fc47655b07f89b0ec723f794c76d3c12",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "7ba6195150749b077e147fee833998579838750e9ca2d914467f18a9eca8846e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Box": {
+      "version": {
+        "withMetadata": "9183c8d5316e6f1fd43e155c06510fcefe893c809b315d4eebf87419fba8a005",
+        "withoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0",
+        "linkedWithoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Box",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/Box.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "e94a17a70f685c1dd8506ce025aa3ccce26188169936892a38b9e9d20f60f305",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "f36bbf9f20c59b6c8e741dbdf1dac65b9a4aa2891a3ed555dcaaefcec69fbbaa",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Context": {
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "ERC165": {
+      "inherit": [
+        "IERC165"
+      ],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "constructor",
+          "contract": "ERC165",
+          "src": "@openzeppelin/contracts/introspection/ERC165.sol:24"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "ERC165",
+            "label": "_supportedInterfaces",
+            "type": "t_mapping(t_bytes4,t_bool)",
+            "src": "@openzeppelin/contracts/introspection/ERC165.sol:22"
+          }
+        ],
+        "types": {
+          "t_mapping(t_bytes4,t_bool)": {
+            "label": "mapping(bytes4 => bool)"
+          }
+        }
+      }
+    },
+    "IERC165": {
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "14ba5cd722e9dbe61edccf2fc04c199179d915f2fda966ff440997c328df3b82",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "IERC20": {
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "ERC721": {
+      "version": {
+        "withMetadata": "9441ecd67e90c599e59243c7e237d2ea747d0a20783610953430484c0f9c14d3",
+        "withoutMetadata": "632db83a5a28eea7582efa6433942b36322760f8ecb53c5e77ec0d582059eb86",
+        "linkedWithoutMetadata": "632db83a5a28eea7582efa6433942b36322760f8ecb53c5e77ec0d582059eb86"
+      },
+      "inherit": [
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721",
+        "ERC165",
+        "IERC165",
+        "Context"
+      ],
+      "libraries": [
+        "SafeMath",
+        "Address",
+        "EnumerableSet",
+        "EnumerableMap",
+        "Strings"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "constructor",
+          "contract": "ERC721",
+          "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:93"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "ERC721",
+            "label": "_holderTokens",
+            "type": "t_mapping(t_address,t_struct(UintSet)2572_storage)",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:33"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_tokenOwners",
+            "type": "t_struct(UintToAddressMap)2012_storage",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:36"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_tokenApprovals",
+            "type": "t_mapping(t_uint256,t_address)",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:39"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_operatorApprovals",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_bool))",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:42"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_name",
+            "type": "t_string_storage",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:45"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_symbol",
+            "type": "t_string_storage",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:48"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_tokenURIs",
+            "type": "t_mapping(t_uint256,t_string_storage)",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:51"
+          },
+          {
+            "contract": "ERC721",
+            "label": "_baseURI",
+            "type": "t_string_storage",
+            "src": "@openzeppelin/contracts/token/ERC721/ERC721.sol:54"
+          }
+        ],
+        "types": {
+          "t_mapping(t_address,t_struct(UintSet)2572_storage)": {
+            "label": "mapping(address => struct EnumerableSet.UintSet)"
+          },
+          "t_struct(UintToAddressMap)2012_storage": {
+            "label": "struct EnumerableMap.UintToAddressMap"
+          },
+          "t_mapping(t_uint256,t_address)": {
+            "label": "mapping(uint256 => address)"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_bool))": {
+            "label": "mapping(address => mapping(address => bool))"
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_mapping(t_uint256,t_string_storage)": {
+            "label": "mapping(uint256 => string)"
+          }
+        }
+      }
+    },
+    "IERC721": {
+      "inherit": [
+        "IERC165"
+      ],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "IERC721Enumerable": {
+      "inherit": [
+        "IERC721",
+        "IERC165"
+      ],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "IERC721Metadata": {
+      "inherit": [
+        "IERC721",
+        "IERC165"
+      ],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "IERC721Receiver": {
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "Address": {
+      "version": {
+        "withMetadata": "55712d52efeb6268a85a6be4020d49291648f45e85e0dcc2c48ea09971fb4962",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "EnumerableMap": {
+      "version": {
+        "withMetadata": "ed6e7035e37c3e2d057bc222f5a3af2e9b6649ddcea76a50e37197b60b855d99",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "struct-definition",
+          "name": "MapEntry",
+          "src": "@openzeppelin/contracts/utils/EnumerableMap.sol:39"
+        },
+        {
+          "kind": "struct-definition",
+          "name": "Map",
+          "src": "@openzeppelin/contracts/utils/EnumerableMap.sol:44"
+        },
+        {
+          "kind": "struct-definition",
+          "name": "UintToAddressMap",
+          "src": "@openzeppelin/contracts/utils/EnumerableMap.sol:168"
+        }
+      ],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "EnumerableSet": {
+      "version": {
+        "withMetadata": "4ed83742f4fe80bd30ebf48599748c9c72c514964fd1d298b35d0dea4ca9ea6e",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "struct-definition",
+          "name": "Set",
+          "src": "@openzeppelin/contracts/utils/EnumerableSet.sol:39"
+        },
+        {
+          "kind": "struct-definition",
+          "name": "Bytes32Set",
+          "src": "@openzeppelin/contracts/utils/EnumerableSet.sol:137"
+        },
+        {
+          "kind": "struct-definition",
+          "name": "AddressSet",
+          "src": "@openzeppelin/contracts/utils/EnumerableSet.sol:191"
+        },
+        {
+          "kind": "struct-definition",
+          "name": "UintSet",
+          "src": "@openzeppelin/contracts/utils/EnumerableSet.sol:246"
+        }
+      ],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "Strings": {
+      "version": {
+        "withMetadata": "65a3550fdc1d47e9040aad52913a4b4e6ba0e9b1531d585845ce9f46a0897251",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "NFT": {
+      "version": {
+        "withMetadata": "7153492063ce1a6fe3692db5f187d3831006bb1fd7ed28dc1085e345a1514aec",
+        "withoutMetadata": "b991807fcd1e501e638bd26bed3c3c25c6d91dad618846e98e9440b3862905d8",
+        "linkedWithoutMetadata": "b991807fcd1e501e638bd26bed3c3c25c6d91dad618846e98e9440b3862905d8"
+      },
+      "inherit": [
+        "owned",
+        "ERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721",
+        "ERC165",
+        "IERC165",
+        "Context"
+      ],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "constructor",
+          "contract": "NFT",
+          "src": "contracts/NFT.sol:9"
+        }
+      ],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    },
+    "StableUSD": {
+      "version": {
+        "withMetadata": "3b87cac0936251bb92e1df8172396f90ccfea73eeb05409311ca00aa143d31ff",
+        "withoutMetadata": "7158dbd1508e08830b57858b1040d9c156e22b1ce4011837e81d4409106131fb",
+        "linkedWithoutMetadata": "7158dbd1508e08830b57858b1040d9c156e22b1ce4011837e81d4409106131fb"
+      },
+      "inherit": [
+        "owned",
+        "Context",
+        "IERC20"
+      ],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "constructor",
+          "contract": "StableUSD",
+          "src": "contracts/StableUSD.sol:43"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "StableUSD",
+            "label": "_balances",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "contracts/StableUSD.sol:13"
+          },
+          {
+            "contract": "StableUSD",
+            "label": "_allowances",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "src": "contracts/StableUSD.sol:15"
+          },
+          {
+            "contract": "StableUSD",
+            "label": "_totalSupply",
+            "type": "t_uint256",
+            "src": "contracts/StableUSD.sol:17"
+          },
+          {
+            "contract": "StableUSD",
+            "label": "_name",
+            "type": "t_string_storage",
+            "src": "contracts/StableUSD.sol:18"
+          },
+          {
+            "contract": "StableUSD",
+            "label": "_symbol",
+            "type": "t_string_storage",
+            "src": "contracts/StableUSD.sol:19"
+          },
+          {
+            "contract": "StableUSD",
+            "label": "_decimals",
+            "type": "t_uint8",
+            "src": "contracts/StableUSD.sol:20"
+          }
+        ],
+        "types": {
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          }
+        }
+      }
+    },
+    "owned": {
+      "version": {
+        "withMetadata": "509c654708115d5462d4e38747323fd106bd253d012bb725e145cada5ebd2255",
+        "withoutMetadata": "4b1f613b8483250c33a3f4ff37df1fb8eb17002f0a6978b3f5621e802641928e",
+        "linkedWithoutMetadata": "4b1f613b8483250c33a3f4ff37df1fb8eb17002f0a6978b3f5621e802641928e"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "constructor",
+          "contract": "owned",
+          "src": "contracts/owned.sol:5"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "owned",
+            "label": "owner",
+            "type": "t_address",
+            "src": "contracts/owned.sol:6"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Counter": {
+      "version": {
+        "withMetadata": "e94a17a70f685c1dd8506ce025aa3ccce26188169936892a38b9e9d20f60f305",
+        "withoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5",
+        "linkedWithoutMetadata": "8539a3a5cacb63448ffd488cfa109aab25d62411bc86b87bd6264a914755e8a5"
+      },
+      "inherit": [],
+      "libraries": [
+        "SafeMath"
+      ],
+      "linkReferences": [],
+      "errors": [
+        {
+          "kind": "state-variable-assignment",
+          "name": "counter",
+          "src": "contracts/Counter.sol:11"
+        }
+      ],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Counter",
+            "label": "counter",
+            "type": "t_uint256",
+            "src": "contracts/Counter.sol:11"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "SafeMath": {
+      "version": {
+        "withMetadata": "f36bbf9f20c59b6c8e741dbdf1dac65b9a4aa2891a3ed555dcaaefcec69fbbaa",
+        "withoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8",
+        "linkedWithoutMetadata": "aaa148c474cd10e1a6cd0a52c0b55f1aa9b7bb7b42d7f1cb5acaea4f42f04bc8"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [],
+        "types": {}
+      }
+    }
+  },
+  {
+    "Box": {
+      "version": {
+        "withMetadata": "15500f928e85ce27ad38556569c767572f61d0bea65457a15d8f3b6dd8e0b817",
+        "withoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0",
+        "linkedWithoutMetadata": "4e39db47badb9a3517d459e7718e5172a215bbe141df4f682ca7f727953d0eb0"
+      },
+      "inherit": [],
+      "libraries": [],
+      "linkReferences": [],
+      "errors": [],
+      "layout": {
+        "storage": [
+          {
+            "contract": "Box",
+            "label": "value",
+            "type": "t_uint256",
+            "src": "contracts/Box.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  }
+]
